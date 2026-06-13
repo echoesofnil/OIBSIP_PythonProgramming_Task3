@@ -57,7 +57,7 @@ Tkinter GUI
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/advanced-password-generator.git
+git clone https://github.com/echoesofnil/advanced-password-generator.git
 cd advanced-password-generator
 ```
 
