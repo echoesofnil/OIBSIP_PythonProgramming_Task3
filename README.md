@@ -6,23 +6,23 @@ A secure and user-friendly Password Generator built with Python and Tkinter. Thi
 
 ## Features
 
-✅ Generate secure random passwords
+. Generate secure random passwords
 
-✅ Custom password length
+. Custom password length
 
-✅ Include Letters (Uppercase & Lowercase)
+. Include Letters (Uppercase & Lowercase)
 
-✅ Include Numbers
+. Include Numbers
 
-✅ Include Symbols
+. Include Symbols
 
-✅ Exclude Similar Characters (O, 0, I, l, 1)
+. Exclude Similar Characters (O, 0, I, l, 1)
 
-✅ Password Strength Indicator
+. Password Strength Indicator
 
-✅ Copy Password to Clipboard
+. Copy Password to Clipboard
 
-✅ Easy-to-use GUI with Tkinter
+. Easy-to-use GUI with Tkinter
 
 ---
 
