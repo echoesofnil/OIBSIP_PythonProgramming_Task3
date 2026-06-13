@@ -1,29 +1,27 @@
+# OIBSIP_PythonProgramming_Task3
 
----
-
-## Password-Generator README.md
-
-```markdown
 # Password Generator
 
-A Python application that generates strong and secure random passwords.
+## Objective
 
-## Features
+To generate strong and secure random passwords using Python.
 
-- Generate random passwords
-- Custom password length
-- Strong and secure password creation
-- Easy to use
+## Steps Performed
 
-## Technologies Used
+1. Accepted password length from the user.
+2. Generated random characters.
+3. Created a secure password.
+4. Displayed the generated password.
 
-- Python
+## Tools Used
 
-## How to Run
+* Python
+* VS Code
 
-1. Clone the repository
-2. Open the project folder
-3. Run:
+## Outcome
 
-```bash
-python password_generator.py
+Successfully generated secure and random passwords based on user requirements.
+
+## Author
+
+Nilakshi
